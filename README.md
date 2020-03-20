@@ -40,6 +40,7 @@ If you have examples to add, please open an issue or make a pull request.
 
 - 📦 [coronavirus](https://github.com/RamiKrispin/coronavirus)
 - 📦 [nCoV2019.data](https://github.com/qingyuanzhao/2019-nCov-Data)
+- 📦 [covidR](https://github.com/CaRdiffR/covidR-api)
 - SFBart said they'll be posting ridership numbers each day (https://twitter.com/SFBART/status/1239904439542005760?s=20), need to track down how to compile
 
 ## Journal articles
