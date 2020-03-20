@@ -43,3 +43,9 @@ I know I've seen some in the past few days, need to track them down again...
 - [Maps made from the Johns Hopkins Coronavirus Data](https://github.com/jonhersh/Hopkins_Maps)
 - [Discussion of resources on rOpenSci forum](https://discuss.ropensci.org/t/openvirus-tools-and-resources-for-covid-19-knowledge/1998)
 - [U.S. COVID-19 Data Explorer](https://rdwinkelman.shinyapps.io/US_COVID_Explorer/)
+
+-----
+
+Please note that this project is released with a [Contributor Code of
+Conduct](https://www.contributor-covenant.org/version/2/0/code_of_conduct/). By participating
+in this project you agree to abide by its terms.
