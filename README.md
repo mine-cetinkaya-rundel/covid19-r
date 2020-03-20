@@ -1,3 +1,5 @@
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md)
+
 # covid19-r
 
 This repo links to a collection of analyses on and representations of COVID19 data in R. Inclusion on the list does not mean the analysis was verified by me or that I endorse the findings. It should also be noted that some of the analysis / data might be out of date, so these should not be viewed, by default, as current findings.
