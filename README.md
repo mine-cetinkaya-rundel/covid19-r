@@ -34,6 +34,7 @@ If you have examples to add, please open an issue or make a pull request.
 ](https://github.com/mathsnuig/coronaviz) [[Code]](https://github.com/mathsnuig/coronaviz)
 - [COVID-19 Cases in Ontario](https://gregrousell.shinyapps.io/COVID-19/)
 - [Observatório COVID-19 BR ](https://covid19br.github.io/)
+- [Coronavirus dashboard](https://ramikrispin.github.io/coronavirus_dashboard/)
 
 ## Videos
 
@@ -47,6 +48,8 @@ If you have examples to add, please open an issue or make a pull request.
 - 📦 [covidR](https://github.com/CaRdiffR/covidR-api)
 - 📦 [coronabr](https://liibre.github.io/coronabr/index.html)
 - 📦 [covid19br](https://paternogbc.github.io/covid19br/index.html)
+- 📦 [coronabr](https://liibre.github.io/coronabr/index.html)
+- 📦 [covid19italy](https://github.com/RamiKrispin/covid19Italy)
 - SFBart said they'll be posting ridership numbers each day (https://twitter.com/SFBART/status/1239904439542005760?s=20), need to track down how to compile
 
 ## Journal articles
