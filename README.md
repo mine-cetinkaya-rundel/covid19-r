@@ -36,15 +36,31 @@ If you have examples to add, please open an issue or make a pull request.
 - [Playlist of COVID-19 related R tutorials](https://www.youtube.com/playlist?list=PLuak_bGvcWZPsLGEBv5LM1MxpdZuaBB0Q) by CradleToGraveR
 - [Cleaning and exploring the COVID-19 Open Research Dataset](https://www.youtube.com/watch?v=-5HYdBq_PTM) by David Robinson
 
+## Data
+
+- 📦 [coronavirus](https://github.com/RamiKrispin/coronavirus)
+- 📦 [nCoV2019.data](https://github.com/qingyuanzhao/2019-nCov-Data)
+- SFBart said they'll be posting ridership numbers each day (https://twitter.com/SFBART/status/1239904439542005760?s=20), need to track down how to compile
+
 ## Journal articles
 
 I know I've seen some in the past few days, need to track them down again...
+
+## Educational activities
+
+- [Visualizing COVID-19](https://rpruim.github.io/ds303/S20/hw/covid-19/covid-19.html) by Randy Prium
 
 ## Misc.
 
 - [Maps made from the Johns Hopkins Coronavirus Data](https://github.com/jonhersh/Hopkins_Maps)
 - [Discussion of resources on rOpenSci forum](https://discuss.ropensci.org/t/openvirus-tools-and-resources-for-covid-19-knowledge/1998)
 - [U.S. COVID-19 Data Explorer](https://rdwinkelman.shinyapps.io/US_COVID_Explorer/)
+
+## Analysing COVID data responsibly
+
+These are not #rstats specific, but important to digest before diving into the data.
+
+- [Ten Considerations Before You Create Another Chart About COVID-19](https://medium.com/nightingale/ten-considerations-before-you-create-another-chart-about-covid-19-27d3bd691be8)
 
 -----
 
