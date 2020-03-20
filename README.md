@@ -30,6 +30,8 @@ If you have examples to add, please open an issue or make a pull request.
 - [Coronavirus COVID-19 Global Cases](http://www.paulamoraga.com/coronavirus/)
 - [COVID-19 in derivatives](https://community.rstudio.com/t/covid-19-in-derivatives-2020-shiny-contest-submission/56796) [[Code]](https://github.com/pernaletec/covid19_derivatives)
 - [Utah.gov Coronavirus Dashboard](https://coronavirus.utah.gov/latest/) (Access seems restricted outside of the US)
+- [Visualisation of Covid-19 case data for the Island of Ireland
+](https://github.com/mathsnuig/coronaviz) [[Code]](https://github.com/mathsnuig/coronaviz)
 
 ## Videos
 
