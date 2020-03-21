@@ -18,6 +18,9 @@ If you have examples to add, please open an issue or make a pull request.
 - [COVID-19: The Case of Germany](https://blog.ephorie.de/covid-19-the-case-of-germany)
 - [Map Visualization of COVID-19 Across the World with R](https://datascienceplus.com/map-visualization-of-covid19-across-world)
 - [COVID-19 cumulative observed case fatality rate over time](http://freerangestats.info/blog/2020/03/17/covid19-cfr)
+- [Impact of a country's age breakdown on COVID-19 case fatality rate](http://freerangestats.info/blog/2020/03/21/covid19-cfr-demographics)
+- [COVID-19 Tracker: Days since N](https://mentalbreaks.rbind.io/posts/covid-19-tracker/)
+- [COVID-19 Has Become a Partisan Issue (How to Make Dumbbell Plots in R](https://connorrothschild.github.io/covid/)
 
 ## Shiny apps / dashboards
 
@@ -36,6 +39,13 @@ If you have examples to add, please open an issue or make a pull request.
 - [Observatório COVID-19 BR ](https://covid19br.github.io/)
 - [Coronavirus dashboard](https://ramikrispin.github.io/coronavirus_dashboard/)
 - [Covid-19](https://thereseanders.shinyapps.io/covid19/) [Code linked in app]
+- [CoronaDash](https://petolau.shinyapps.io/coronadash/)
+- [Coronavirus COVID-19 : Répartition des cas infectés en Tunisie](https://mounabelaid.shinyapps.io/coronavirus/)
+- [COVID-19 Tracker](https://mentalbreaks.shinyapps.io/covid19/)
+- [Thailand: COVID-19 Growth Dashboard](https://paulapivat.shinyapps.io/covidgrowth/)
+- [Covid-19: country comparison](https://scitilab.shinyapps.io/Covid19/)
+- [Covid-19 Italy](https://alessiopassalacqua.github.io/covid19_italy/)
+- [Flatten the COVID-19 curve](https://staff.math.su.se/hoehle/blog/2020/03/16/flatteningthecurve.html)
 
 ## Videos
 
@@ -51,6 +61,7 @@ If you have examples to add, please open an issue or make a pull request.
 - 📦 [covid19br](https://paternogbc.github.io/covid19br/index.html)
 - 📦 [coronabr](https://liibre.github.io/coronabr/index.html)
 - 📦 [covid19italy](https://github.com/RamiKrispin/covid19Italy)
+- 📦 [covid19at](https://github.com/joph/Covid19-Austria)
 - SFBart said they'll be posting ridership numbers each day (https://twitter.com/SFBART/status/1239904439542005760?s=20), need to track down how to compile
 
 ## Journal articles
