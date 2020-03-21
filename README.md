@@ -35,6 +35,7 @@ If you have examples to add, please open an issue or make a pull request.
 - [COVID-19 Cases in Ontario](https://gregrousell.shinyapps.io/COVID-19/)
 - [Observatório COVID-19 BR ](https://covid19br.github.io/)
 - [Coronavirus dashboard](https://ramikrispin.github.io/coronavirus_dashboard/)
+- [Covid-19](https://thereseanders.shinyapps.io/covid19/) [Code linked in app]
 
 ## Videos
 
