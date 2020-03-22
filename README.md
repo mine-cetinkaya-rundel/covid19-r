@@ -49,6 +49,7 @@ If you have examples to add, please open an issue or make a pull request.
 - [Flatten the COVID-19 curve](https://staff.math.su.se/hoehle/blog/2020/03/16/flatteningthecurve.html)
 - [Government of Alberta COVID-19 dashboard](https://covid19stats.alberta.ca/)
 - [Covid-19 Turkey](https://rpydaneogrendim.shinyapps.io/covid19turkey/)
+- [Tableau de bord de suivi de l’épidémie de coronavirus en France](https://veille-coronavirus.fr/)
 
 ## Videos
 
@@ -67,7 +68,10 @@ If you have examples to add, please open an issue or make a pull request.
 - 📦 [covid19at](https://github.com/joph/Covid19-Austria)
 - SFBart said they'll be posting ridership numbers each day (https://twitter.com/SFBART/status/1239904439542005760?s=20), need to track down how to compile
 - [COVID-19 data API updated daily](https://analythium.github.io/covid-19/) with a simple [plotting interface](https://analythium.github.io/covid-19/) (based on JHU repo)
-
+- French data: 
+  - https://github.com/opencovid19-fr/data
+  - https://github.com/lperez31/coronavirus-france-dataset
+  
 ## Journal articles
 
 I know I've seen some in the past few days, need to track them down again...
