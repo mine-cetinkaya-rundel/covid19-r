@@ -50,6 +50,7 @@ If you have examples to add, please open an issue or make a pull request.
 - [Government of Alberta COVID-19 dashboard](https://covid19stats.alberta.ca/)
 - [Covid-19 Turkey](https://rpydaneogrendim.shinyapps.io/covid19turkey/)
 - [Tableau de bord de suivi de l’épidémie de coronavirus en France](https://veille-coronavirus.fr/)
+- [Modeling COVID-19 Spread vs Healthcare Capacity](https://alhill.shinyapps.io/COVID19seir/) - [[Twitter thread]](https://twitter.com/alison_l_hill/status/1239072817678823425?s=20) [[Code]](https://github.com/alsnhll/SEIR_COVID19)
 
 ## Videos
 
