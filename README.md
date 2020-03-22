@@ -21,6 +21,7 @@ If you have examples to add, please open an issue or make a pull request.
 - [Impact of a country's age breakdown on COVID-19 case fatality rate](http://freerangestats.info/blog/2020/03/21/covid19-cfr-demographics)
 - [COVID-19 Tracker: Days since N](https://mentalbreaks.rbind.io/posts/covid-19-tracker/)
 - [COVID-19 Has Become a Partisan Issue (How to Make Dumbbell Plots in R](https://connorrothschild.github.io/covid/)
+- [Get Your Epidemiology from Epidemiologists](https://kieranhealy.org/blog/archives/2020/03/21/covid-19-tracking/)
 
 ## Shiny apps / dashboards
 
@@ -46,6 +47,7 @@ If you have examples to add, please open an issue or make a pull request.
 - [Covid-19: country comparison](https://scitilab.shinyapps.io/Covid19/)
 - [Covid-19 Italy](https://alessiopassalacqua.github.io/covid19_italy/)
 - [Flatten the COVID-19 curve](https://staff.math.su.se/hoehle/blog/2020/03/16/flatteningthecurve.html)
+- [Covid-19 Turkey](https://rpydaneogrendim.shinyapps.io/covid19turkey/)
 
 ## Videos
 
