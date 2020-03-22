@@ -56,7 +56,9 @@ If you have examples to add, please open an issue or make a pull request.
 - [Playlist of COVID-19 related R tutorials](https://www.youtube.com/playlist?list=PLuak_bGvcWZPsLGEBv5LM1MxpdZuaBB0Q) by CradleToGraveR
 - [Cleaning and exploring the COVID-19 Open Research Dataset](https://www.youtube.com/watch?v=-5HYdBq_PTM) by David Robinson
 
-## Data
+## Packages
+
+Most of these are data only packages, but sone omly feature functions for creating visualisations and dashboard from the data in the package.
 
 - 📦 [coronavirus](https://github.com/RamiKrispin/coronavirus)
 - 📦 [nCoV2019.data](https://github.com/qingyuanzhao/2019-nCov-Data)
@@ -66,11 +68,18 @@ If you have examples to add, please open an issue or make a pull request.
 - 📦 [coronabr](https://liibre.github.io/coronabr/index.html)
 - 📦 [covid19italy](https://github.com/RamiKrispin/covid19Italy)
 - 📦 [covid19at](https://github.com/joph/Covid19-Austria)
-- SFBart said they'll be posting ridership numbers each day (https://twitter.com/SFBART/status/1239904439542005760?s=20), need to track down how to compile
+- 📦 [ncovmap](https://github.com/yiluheihei/ncovmap) - data of China and global world, China map, Province map of china
+World map, maps of Italy, Japan, Korea and Iran
+
+## Data
+
+These are not R specific resources, but they're mostly what the analyses in R rely on and/or are stored in a format that is easily digestable by R.
+
 - [COVID-19 data API updated daily](https://analythium.github.io/covid-19/) with a simple [plotting interface](https://analythium.github.io/covid-19/) (based on JHU repo)
 - French data: 
   - https://github.com/opencovid19-fr/data
   - https://github.com/lperez31/coronavirus-france-dataset
+- TO DO: SFBart said they'll be posting ridership numbers each day (https://twitter.com/SFBART/status/1239904439542005760?s=20), need to track down how to compile
   
 ## Journal articles
 
