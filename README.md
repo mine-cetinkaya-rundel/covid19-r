@@ -22,6 +22,7 @@ If you have examples to add, please open an issue or make a pull request.
 - [COVID-19 Tracker: Days since N](https://mentalbreaks.rbind.io/posts/covid-19-tracker/)
 - [COVID-19 Has Become a Partisan Issue (How to Make Dumbbell Plots in R](https://connorrothschild.github.io/covid/)
 - [Get Your Epidemiology from Epidemiologists](https://kieranhealy.org/blog/archives/2020/03/21/covid-19-tracking/)
+- [Flatten the COVID-19 curve](https://staff.math.su.se/hoehle/blog/2020/03/16/flatteningthecurve.html)
 - [A Beginner’s Guide to Creating a Corona “Dashboard”](https://medium.com/@jonas.schroeder1991/a-beginners-guide-to-creating-a-corona-dashboard-3553b01d8d44)
 
 ## Shiny apps / dashboards
@@ -47,13 +48,13 @@ If you have examples to add, please open an issue or make a pull request.
 - [Thailand: COVID-19 Growth Dashboard](https://paulapivat.shinyapps.io/covidgrowth/)
 - [Covid-19: country comparison](https://scitilab.shinyapps.io/Covid19/)
 - [Covid-19 Italy](https://alessiopassalacqua.github.io/covid19_italy/)
-- [Flatten the COVID-19 curve](https://staff.math.su.se/hoehle/blog/2020/03/16/flatteningthecurve.html)
 - [Government of Alberta COVID-19 dashboard](https://covid19stats.alberta.ca/)
 - [Covid-19 Turkey](https://rpydaneogrendim.shinyapps.io/covid19turkey/)
 - [Tableau de bord de suivi de l’épidémie de coronavirus en France](https://veille-coronavirus.fr/)
 - [Modeling COVID-19 Spread vs Healthcare Capacity](https://alhill.shinyapps.io/COVID19seir/) - [[Twitter thread]](https://twitter.com/alison_l_hill/status/1239072817678823425?s=20) [[Code]](https://github.com/alsnhll/SEIR_COVID19)
 - [Covid-19 in United States](https://tarko.shinyapps.io/covid/)
 - [COVID-19 in India](https://rstudio-pubs-static.s3.amazonaws.com/583827_1958ebf6748d4835864082bd95a631e0.html)
+- [Flatten the Curve](https://tinu.shinyapps.io/Flatten_the_Curve/)
 
 ## Videos
 
