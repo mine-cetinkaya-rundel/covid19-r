@@ -1,4 +1,4 @@
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](https://www.contributor-covenant.org/version/2/0/code_of_conduct/)
 
 # covid19-r
 
@@ -22,6 +22,7 @@ If you have examples to add, please open an issue or make a pull request.
 - [COVID-19 Tracker: Days since N](https://mentalbreaks.rbind.io/posts/covid-19-tracker/)
 - [COVID-19 Has Become a Partisan Issue (How to Make Dumbbell Plots in R](https://connorrothschild.github.io/covid/)
 - [Get Your Epidemiology from Epidemiologists](https://kieranhealy.org/blog/archives/2020/03/21/covid-19-tracking/)
+- [Flatten the COVID-19 curve](https://staff.math.su.se/hoehle/blog/2020/03/16/flatteningthecurve.html)
 - [A Beginner’s Guide to Creating a Corona “Dashboard”](https://medium.com/@jonas.schroeder1991/a-beginners-guide-to-creating-a-corona-dashboard-3553b01d8d44)
 
 ## Shiny apps / dashboards
@@ -47,7 +48,6 @@ If you have examples to add, please open an issue or make a pull request.
 - [Thailand: COVID-19 Growth Dashboard](https://paulapivat.shinyapps.io/covidgrowth/)
 - [Covid-19: country comparison](https://scitilab.shinyapps.io/Covid19/)
 - [Covid-19 Italy](https://alessiopassalacqua.github.io/covid19_italy/)
-- [Flatten the COVID-19 curve](https://staff.math.su.se/hoehle/blog/2020/03/16/flatteningthecurve.html)
 - [Government of Alberta COVID-19 dashboard](https://covid19stats.alberta.ca/)
 - [Covid-19 Turkey](https://rpydaneogrendim.shinyapps.io/covid19turkey/)
 - [Tableau de bord de suivi de l’épidémie de coronavirus en France](https://veille-coronavirus.fr/)
@@ -55,6 +55,8 @@ If you have examples to add, please open an issue or make a pull request.
 - [Covid-19 in United States](https://tarko.shinyapps.io/covid/)
 - [COVID-19 in India](https://rstudio-pubs-static.s3.amazonaws.com/583827_1958ebf6748d4835864082bd95a631e0.html)
 - [The math behind flatten the curve](https://ahurford.shinyapps.io/flatten-the-curve/) [[Code]](https://github.com/ahurford/flatten-the-curve)
+- [Flatten the Curve](https://tinu.shinyapps.io/Flatten_the_Curve/)
+- [Tracking COVID-19](https://dartthrowingchimp.shinyapps.io/covid19-app/)
 
 ## Videos
 
@@ -85,7 +87,7 @@ These are not R specific resources, but they're mostly what the analyses in R re
 - French data: 
   - https://github.com/opencovid19-fr/data
   - https://github.com/lperez31/coronavirus-france-dataset
-- TO DO: SFBart said they'll be posting ridership numbers each day (https://twitter.com/SFBART/status/1239904439542005760?s=20), need to track down how to compile
+- TO DO: SFBart said they'll be posting ridership numbers each day (https://twitter.com/SFBART/status/1239904439542005760?s=20), need to track down how to compile. Also see [here](https://www.bart.gov/news/articles/2020/news20200225).
   
 ## Journal articles
 
