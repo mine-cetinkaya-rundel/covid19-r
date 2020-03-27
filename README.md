@@ -54,6 +54,7 @@ If you have examples to add, please open an issue or make a pull request.
 - [Modeling COVID-19 Spread vs Healthcare Capacity](https://alhill.shinyapps.io/COVID19seir/) - [[Twitter thread]](https://twitter.com/alison_l_hill/status/1239072817678823425?s=20) [[Code]](https://github.com/alsnhll/SEIR_COVID19)
 - [Covid-19 in United States](https://tarko.shinyapps.io/covid/)
 - [COVID-19 in India](https://rstudio-pubs-static.s3.amazonaws.com/583827_1958ebf6748d4835864082bd95a631e0.html)
+- [Tracking COVID-19](https://dartthrowingchimp.shinyapps.io/covid19-app/)
 
 ## Videos
 
