@@ -84,7 +84,7 @@ These are not R specific resources, but they're mostly what the analyses in R re
 - French data: 
   - https://github.com/opencovid19-fr/data
   - https://github.com/lperez31/coronavirus-france-dataset
-- TO DO: SFBart said they'll be posting ridership numbers each day (https://twitter.com/SFBART/status/1239904439542005760?s=20), need to track down how to compile
+- TO DO: SFBart said they'll be posting ridership numbers each day (https://twitter.com/SFBART/status/1239904439542005760?s=20), need to track down how to compile. Also see [here](https://www.bart.gov/news/articles/2020/news20200225).
   
 ## Journal articles
 
