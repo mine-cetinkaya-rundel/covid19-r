@@ -1,4 +1,4 @@
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](https://www.contributor-covenant.org/version/2/0/code_of_conduct/)
 
 # covid19-r
 
@@ -55,6 +55,7 @@ If you have examples to add, please open an issue or make a pull request.
 - [Covid-19 in United States](https://tarko.shinyapps.io/covid/)
 - [COVID-19 in India](https://rstudio-pubs-static.s3.amazonaws.com/583827_1958ebf6748d4835864082bd95a631e0.html)
 - [Flatten the Curve](https://tinu.shinyapps.io/Flatten_the_Curve/)
+- [Tracking COVID-19](https://dartthrowingchimp.shinyapps.io/covid19-app/)
 
 ## Videos
 
@@ -85,7 +86,7 @@ These are not R specific resources, but they're mostly what the analyses in R re
 - French data: 
   - https://github.com/opencovid19-fr/data
   - https://github.com/lperez31/coronavirus-france-dataset
-- TO DO: SFBart said they'll be posting ridership numbers each day (https://twitter.com/SFBART/status/1239904439542005760?s=20), need to track down how to compile
+- TO DO: SFBart said they'll be posting ridership numbers each day (https://twitter.com/SFBART/status/1239904439542005760?s=20), need to track down how to compile. Also see [here](https://www.bart.gov/news/articles/2020/news20200225).
   
 ## Journal articles
 
