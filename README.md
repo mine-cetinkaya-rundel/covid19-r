@@ -13,6 +13,8 @@ If you have examples to add, please open an issue or make a pull request.
 ## Blog posts
 
 - [Simulating COVID-19 interventions with R](https://rviews.rstudio.com/2020/03/19/simulating-covid-19-interventions-with-r/)
+- [Analysing COVID-19 (2019-nCoV) outbreak data with R - part 1](https://timchurches.github.io/blog/posts/2020-02-18-analysing-covid-19-2019-ncov-outbreak-data-with-r-part-1/)
+- [Analysing COVID-19 (2019-nCoV) outbreak data with R - part 2](https://timchurches.github.io/blog/posts/2020-03-01-analysing-covid-19-2019-ncov-outbreak-data-with-r-part-2/)
 - [Modelling the effects of public health interventions on COVID-19 transmission using R - part 1](https://timchurches.github.io/blog/posts/2020-03-10-modelling-the-effects-of-public-health-interventions-on-covid-19-transmission-part-1/)
 - [Modelling the effects of public health interventions on COVID-19 transmission using R - part 2](https://timchurches.github.io/blog/posts/2020-03-18-modelling-the-effects-of-public-health-interventions-on-covid-19-transmission-part-2/)
 - [COVID-19: The Case of Germany](https://blog.ephorie.de/covid-19-the-case-of-germany)
@@ -24,6 +26,13 @@ If you have examples to add, please open an issue or make a pull request.
 - [Get Your Epidemiology from Epidemiologists](https://kieranhealy.org/blog/archives/2020/03/21/covid-19-tracking/)
 - [Flatten the COVID-19 curve](https://staff.math.su.se/hoehle/blog/2020/03/16/flatteningthecurve.html)
 - [A Beginner’s Guide to Creating a Corona “Dashboard”](https://medium.com/@jonas.schroeder1991/a-beginners-guide-to-creating-a-corona-dashboard-3553b01d8d44)
+- [Infectious diseases and nonlinear differential equations](https://fabiandablander.com/r/Nonlinear-Infection.html)
+- [COVID-19: The Case of Spain](https://diarium.usal.es/jose/2020/03/20/covid-19-the-case-of-spain/)
+- [Epidemic modelling of COVID-19 in the UK using an SIR model](https://tjwilding.wordpress.com/2020/03/20/epidemic-modelling-of-covid-19-in-the-uk-using-an-sir-model/)
+- [Modeling Pandemics (2)](https://freakonometrics.hypotheses.org/60543)
+- [Don’t speculate, simulate!](https://timchurches.github.io/blog/posts/2020-03-20-dont-speculate-simulate/)
+- [Coronavirus model using R — Colombia](https://medium.com/@daniel.pena.chaves/simple-coronavirus-model-using-r-cf6b1bc93949)
+- [Epidemiology: How contagious is Novel Coronavirus (2019-nCoV)?](https://blog.ephorie.de/epidemiology-how-contagious-is-novel-coronavirus-2019-ncov)
 
 ## Shiny apps / dashboards
 
@@ -57,6 +66,11 @@ If you have examples to add, please open an issue or make a pull request.
 - [The math behind flatten the curve](https://ahurford.shinyapps.io/flatten-the-curve/) [[Code]](https://github.com/ahurford/flatten-the-curve)
 - [Flatten the Curve](https://tinu.shinyapps.io/Flatten_the_Curve/)
 - [Tracking COVID-19](https://dartthrowingchimp.shinyapps.io/covid19-app/)
+- [#explainCovid19 challenge](https://medium.com/@ModelOriented/explaincovid19-challenge-2453b255a908)
+- [COVID-19: Modeling the Flattening of the Curve](http://smaldino.com/wp/covid-19-modeling-the-flattening-of-the-curve/)
+- [An R Package to Explore the Novel Coronavirus](https://towardsdatascience.com/an-r-package-to-explore-the-novel-coronavirus-590055738ad6)
+- [COVID-19 call-to-arms](https://timchurches.github.io/blog/posts/2020-03-06-covid-19-call-to-arms/)
+- 
 
 ## Videos
 
