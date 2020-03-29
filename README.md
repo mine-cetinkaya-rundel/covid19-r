@@ -42,6 +42,7 @@ If you have examples to add, please open an issue or make a pull request.
 ](https://calumdavey.github.io/Covid-Deaths-schools/)
 - [Covid deaths graphs -- lockdown (part 3)](https://calumdavey.github.io/Covid-Deaths-lockdown/)
 - [Coverage of COVID research by the A&I databases](https://rpubs.com/alexeilutay/covid_coverage)
+- [Top 25 R resources on Novel COVID-19 Coronavirus](https://towardsdatascience.com/top-5-r-resources-on-covid-19-coronavirus-1d4c8df6d85f)
 
 ## Shiny apps / dashboards
 
@@ -90,6 +91,7 @@ If you have examples to add, please open an issue or make a pull request.
 - [US Coronavirus Tracker](https://rdwinkelman.shinyapps.io/US_COVID_Explorer/)
 - [Covid-19 cases](https://mpalanco.shinyapps.io/coronavirus_shiny/)
 - [COVID-19 Schweiz - Open Source Version](https://chschoenenberger.shinyapps.io/covid19_dashboard_ch/) [[Code]](https://github.com/chschoenenberger/covid19_dashboard_ch)
+- [COVID-19 Dashboard](https://billpetti.shinyapps.io/covid_19_country_state_dashboard/)
 
 ## Videos
 
