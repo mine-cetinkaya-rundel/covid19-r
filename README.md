@@ -92,6 +92,7 @@ If you have examples to add, please open an issue or make a pull request.
 - [Covid-19 cases](https://mpalanco.shinyapps.io/coronavirus_shiny/)
 - [COVID-19 Schweiz - Open Source Version](https://chschoenenberger.shinyapps.io/covid19_dashboard_ch/) [[Code]](https://github.com/chschoenenberger/covid19_dashboard_ch)
 - [COVID-19 Dashboard](https://billpetti.shinyapps.io/covid_19_country_state_dashboard/)
+- [Examining COVID-19 data](https://ebsmonash.shinyapps.io/covid19/)
 
 ## Videos
 
@@ -118,10 +119,12 @@ World map, maps of Italy, Japan, Korea and Iran
 
 ## Data
 
-These are not R specific resources, but they're mostly what the analyses in R rely on and/or are stored in a format that is easily digestable by R.
+These are not necessarily R specific resources, but they're mostly what the analyses in R rely on and/or are stored in a format that is easily digestable by R.
 
 - [COVID-19 data API updated daily](https://analythium.github.io/covid-19/) with a simple [plotting interface](https://analythium.github.io/covid-19/) (based on JHU repo)
 - NY data: https://github.com/car325/nytc19
+- Australia data: https://github.com/covid-19-au
+- NZ data: https://github.com/nzherald/nz-covid19-data
 - French data: 
   - https://github.com/opencovid19-fr/data
   - https://github.com/lperez31/coronavirus-france-dataset
