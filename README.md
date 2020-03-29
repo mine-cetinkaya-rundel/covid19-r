@@ -33,6 +33,15 @@ If you have examples to add, please open an issue or make a pull request.
 - [Don’t speculate, simulate!](https://timchurches.github.io/blog/posts/2020-03-20-dont-speculate-simulate/)
 - [Coronavirus model using R — Colombia](https://medium.com/@daniel.pena.chaves/simple-coronavirus-model-using-r-cf6b1bc93949)
 - [Epidemiology: How contagious is Novel Coronavirus (2019-nCoV)?](https://blog.ephorie.de/epidemiology-how-contagious-is-novel-coronavirus-2019-ncov)
+- [A COVID Small Multiple](https://kieranhealy.org/blog/archives/2020/03/27/a-covid-small-multiple/)
+- [Merge Covid-19 Data with Governmental Interventions Data](https://joachim-gassen.github.io/2020/03/merge-covid-19-data-with-governmental-interventions-data/)
+- [COVID-19 Data and Prediction for Michigan](https://iamnagdev.com/2020/03/26/covid-19-data-and-prediction-for-michigan/)
+- [Tidying the new Johns Hopkins Covid-19 time-series datasets](https://joachim-gassen.github.io/2020/03/tidying-the-new-johns-hopkins-covid-19-datasests/)
+- [Covid deaths graphs -- a walk-through (part 1)](https://calumdavey.github.io/Covid-Deaths/)
+- [Covid deaths graphs -- school closure (part 2)
+](https://calumdavey.github.io/Covid-Deaths-schools/)
+- [Covid deaths graphs -- lockdown (part 3)](https://calumdavey.github.io/Covid-Deaths-lockdown/)
+- [Coverage of COVID research by the A&I databases](https://rpubs.com/alexeilutay/covid_coverage)
 
 ## Shiny apps / dashboards
 
@@ -70,7 +79,17 @@ If you have examples to add, please open an issue or make a pull request.
 - [COVID-19: Modeling the Flattening of the Curve](http://smaldino.com/wp/covid-19-modeling-the-flattening-of-the-curve/)
 - [An R Package to Explore the Novel Coronavirus](https://towardsdatascience.com/an-r-package-to-explore-the-novel-coronavirus-590055738ad6)
 - [COVID-19 call-to-arms](https://timchurches.github.io/blog/posts/2020-03-06-covid-19-call-to-arms/)
-- 
+- [COVID-19 State Tracker Dashboard](https://ausmeyer.shinyapps.io/covid_states/)
+- [COVID-19 Explorer](https://ethan-tenison.shinyapps.io/covid-19/)
+- [Analisis descriptivo de contagio por Coronavirus](https://analyticsrlun.shinyapps.io/Shiny-AnalyticsRLUN/)
+- [COVID-19 Acute and Intensive Care Resource Tool](https://community.rstudio.com/t/covid-19-acute-and-intensive-care-resource-tool-2020-shiny-contest-submission/58448)
+- [Datos COVID-19 (SARS-CoV-2)](https://baguadoramirez.shinyapps.io/covid/)
+- [COVID-19 Global Meter](https://community.rstudio.com/t/covid-19-global-meter-2020-shiny-contest-submission/58312)
+- [Covid19-Cases](https://monty.shinyapps.io/rcoronavirus/)
+- [covid-19 monitor](https://community.rstudio.com/t/covid-19-monitor-2020-shiny-contest-submission/58047)
+- [US Coronavirus Tracker](https://rdwinkelman.shinyapps.io/US_COVID_Explorer/)
+- [Covid-19 cases](https://mpalanco.shinyapps.io/coronavirus_shiny/)
+- [COVID-19 Schweiz - Open Source Version](https://chschoenenberger.shinyapps.io/covid19_dashboard_ch/) [[Code]](https://github.com/chschoenenberger/covid19_dashboard_ch)
 
 ## Videos
 
@@ -92,12 +111,15 @@ Most of these are data only packages, but sone omly feature functions for creati
 - 📦 [ncovmap](https://github.com/yiluheihei/ncovmap) - data of China and global world, China map, Province map of china
 World map, maps of Italy, Japan, Korea and Iran
 - 📦 [nCov2019](https://guangchuangyu.github.io/nCov2019/)
+- 📦 [covid19us](https://github.com/aedobbyn/covid19us)
+- 📦 [covid19germany](https://github.com/nevrome/covid19germany)
 
 ## Data
 
 These are not R specific resources, but they're mostly what the analyses in R rely on and/or are stored in a format that is easily digestable by R.
 
 - [COVID-19 data API updated daily](https://analythium.github.io/covid-19/) with a simple [plotting interface](https://analythium.github.io/covid-19/) (based on JHU repo)
+- NY data: https://github.com/car325/nytc19
 - French data: 
   - https://github.com/opencovid19-fr/data
   - https://github.com/lperez31/coronavirus-france-dataset
@@ -118,6 +140,10 @@ I know I've seen some in the past few days, need to track them down again...
 - [U.S. COVID-19 Data Explorer](https://rdwinkelman.shinyapps.io/US_COVID_Explorer/)
 - [Peru calculations](https://github.com/jmcastagnetto/covid-19-data-cleanup/blob/peru/peru-calculations.R)
 - [#COVID19 testing by US state](https://github.com/aaronolsen/aaronolsen.github.io/tree/master/corona)
+- [COVID-19 Resource Gallery](https://mirai-solutions.ch/covid-19-gallery/)
+- [US COVID-19 Trends](https://www.uscovidtrends.com/)
+- [Coronavirus Global Cases leaflet map](http://mesquitadata.com/corona.html)
+- How Iceland is predicting COVID-19 cases: [Hierarchical Logistic Growth Curves](https://rpubs.com/bgautijonsson/HierarchicalLogisticGrowthCurves)
 
 ## Analysing COVID data responsibly
 
