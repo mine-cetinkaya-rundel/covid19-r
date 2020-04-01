@@ -94,6 +94,7 @@ If you have examples to add, please open an issue or make a pull request.
 - [COVID-19 Dashboard](https://billpetti.shinyapps.io/covid_19_country_state_dashboard/)
 - [Examining COVID-19 data](https://ebsmonash.shinyapps.io/covid19/)
 - [Plotting when covid-19 growth trend slows](https://jeanimal.shinyapps.io/covid_log_log_diff/)
+- [Coronavirus Tracker](https://shiny.john-coene.com/coronavirus/) [[Code]](https://github.com/JohnCoene/coronavirus)
 
 ## Videos
 
