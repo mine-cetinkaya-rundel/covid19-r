@@ -132,7 +132,8 @@ These are not necessarily R specific resources, but they're mostly what the anal
   
 ## Journal articles
 
-I know I've seen some in the past few days, need to track them down again...
+- [Adjusted age-specific case fatality ratio during the COVID-19 epidemic in Hubei, China, January and February 2020](https://www.medrxiv.org/content/10.1101/2020.03.04.20031104v2) [[
+Data & Code]](https://github.com/jriou/covid_adjusted_cfr) 
 
 ## Educational activities
 
