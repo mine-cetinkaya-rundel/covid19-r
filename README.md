@@ -93,6 +93,7 @@ If you have examples to add, please open an issue or make a pull request.
 - [COVID-19 Schweiz - Open Source Version](https://chschoenenberger.shinyapps.io/covid19_dashboard_ch/) [[Code]](https://github.com/chschoenenberger/covid19_dashboard_ch)
 - [COVID-19 Dashboard](https://billpetti.shinyapps.io/covid_19_country_state_dashboard/)
 - [Examining COVID-19 data](https://ebsmonash.shinyapps.io/covid19/)
+- [Plotting when covid-19 growth trend slows](https://jeanimal.shinyapps.io/covid_log_log_diff/)
 
 ## Videos
 
