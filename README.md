@@ -96,6 +96,8 @@ If you have examples to add, please open an issue or make a pull request.
 - [Plotting when covid-19 growth trend slows](https://jeanimal.shinyapps.io/covid_log_log_diff/)
 - [Coronavirus Tracker](https://shiny.john-coene.com/coronavirus/) [[Code]](https://github.com/JohnCoene/coronavirus)
 - [Monitoring COVID-19 evolution in Italy](http://achab94.shinyapps.io/covid-19/)
+- [COVID-19 Global Meter](https://shivam-panchal.shinyapps.io/coronavirus/)
+- [CoVid-19 in Italia](https://www.pangeadds.eu/demos/CoVid19/)
 
 ## Videos
 
