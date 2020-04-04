@@ -123,6 +123,7 @@ World map, maps of Italy, Japan, Korea and Iran
 - 📦 [nCov2019](https://guangchuangyu.github.io/nCov2019/)
 - 📦 [covid19us](https://github.com/aedobbyn/covid19us)
 - 📦 [covid19germany](https://github.com/nevrome/covid19germany)
+- 📦 [tidycovid19](https://github.com/joachim-gassen/tidycovid19)
 
 ## Data
 
