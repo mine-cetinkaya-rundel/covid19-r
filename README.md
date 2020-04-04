@@ -42,7 +42,9 @@ If you have examples to add, please open an issue or make a pull request.
 ](https://calumdavey.github.io/Covid-Deaths-schools/)
 - [Covid deaths graphs -- lockdown (part 3)](https://calumdavey.github.io/Covid-Deaths-lockdown/)
 - [Coverage of COVID research by the A&I databases](https://rpubs.com/alexeilutay/covid_coverage)
-- [Top 25 R resources on Novel COVID-19 Coronavirus](https://towardsdatascience.com/top-5-r-resources-on-covid-19-coronavirus-1d4c8df6d85f)
+- [Top 25 R resources on Novel COVID-19 Coronavirus](https://www.statsandr.com/blog/top-r-resources-on-covid-19-coronavirus)
+- [How to create a simple Coronavirus dashboard specific to your country in R](https://www.statsandr.com/blog/how-to-create-a-simple-coronavirus-dashboard-specific-to-your-country-in-r/)
+- [COVID-19 in Belgium](https://www.statsandr.com/blog/covid-19-in-belgium/) [[Code]](https://github.com/AntoineSoetewey/coronavirus_dashboard)
 
 ## Shiny apps / dashboards
 
