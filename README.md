@@ -130,6 +130,7 @@ These are not necessarily R specific resources, but they're mostly what the anal
 
 - [COVID-19 data API updated daily](https://analythium.github.io/covid-19/) with a simple [plotting interface](https://analythium.github.io/covid-19/) (based on JHU repo)
 - NY data: https://github.com/car325/nytc19
+- NY Times data: https://github.com/nytimes/covid-19-data
 - Australia data: https://github.com/covid-19-au
 - NZ data: https://github.com/nzherald/nz-covid19-data
 - French data: 
