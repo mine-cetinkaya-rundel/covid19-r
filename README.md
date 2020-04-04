@@ -42,7 +42,9 @@ If you have examples to add, please open an issue or make a pull request.
 ](https://calumdavey.github.io/Covid-Deaths-schools/)
 - [Covid deaths graphs -- lockdown (part 3)](https://calumdavey.github.io/Covid-Deaths-lockdown/)
 - [Coverage of COVID research by the A&I databases](https://rpubs.com/alexeilutay/covid_coverage)
-- [Top 25 R resources on Novel COVID-19 Coronavirus](https://towardsdatascience.com/top-5-r-resources-on-covid-19-coronavirus-1d4c8df6d85f)
+- [Top 25 R resources on Novel COVID-19 Coronavirus](https://www.statsandr.com/blog/top-r-resources-on-covid-19-coronavirus)
+- [How to create a simple Coronavirus dashboard specific to your country in R](https://www.statsandr.com/blog/how-to-create-a-simple-coronavirus-dashboard-specific-to-your-country-in-r/)
+- [COVID-19 in Belgium](https://www.statsandr.com/blog/covid-19-in-belgium/) [[Code]](https://github.com/AntoineSoetewey/coronavirus_dashboard)
 
 ## Shiny apps / dashboards
 
@@ -93,6 +95,11 @@ If you have examples to add, please open an issue or make a pull request.
 - [COVID-19 Schweiz - Open Source Version](https://chschoenenberger.shinyapps.io/covid19_dashboard_ch/) [[Code]](https://github.com/chschoenenberger/covid19_dashboard_ch)
 - [COVID-19 Dashboard](https://billpetti.shinyapps.io/covid_19_country_state_dashboard/)
 - [Examining COVID-19 data](https://ebsmonash.shinyapps.io/covid19/)
+- [Plotting when covid-19 growth trend slows](https://jeanimal.shinyapps.io/covid_log_log_diff/)
+- [Coronavirus Tracker](https://shiny.john-coene.com/coronavirus/) [[Code]](https://github.com/JohnCoene/coronavirus)
+- [Monitoring COVID-19 evolution in Italy](http://achab94.shinyapps.io/covid-19/)
+- [COVID-19 Global Meter](https://shivam-panchal.shinyapps.io/coronavirus/)
+- [CoVid-19 in Italia](https://www.pangeadds.eu/demos/CoVid19/)
 
 ## Videos
 
@@ -129,11 +136,12 @@ These are not necessarily R specific resources, but they're mostly what the anal
   - https://github.com/opencovid19-fr/data
   - https://github.com/lperez31/coronavirus-france-dataset
 - Italy data: https://github.com/pcm-dpc/COVID-19
+- US data from NYTimes: https://github.com/nytimes/covid-19-data
 - TO DO: SFBart said they'll be posting ridership numbers each day (https://twitter.com/SFBART/status/1239904439542005760?s=20), need to track down how to compile. Also see [here](https://www.bart.gov/news/articles/2020/news20200225).
   
 ## Journal articles
 
-I know I've seen some in the past few days, need to track them down again...
+- [Adjusted age-specific case fatality ratio during the COVID-19 epidemic in Hubei, China, January and February 2020](https://www.medrxiv.org/content/10.1101/2020.03.04.20031104v2) [[Data & Code]](https://github.com/jriou/covid_adjusted_cfr) [[Tweet]](https://twitter.com/konstantinoudis/status/1244888431232253952?s=20)
 
 ## Educational activities
 
@@ -150,6 +158,8 @@ I know I've seen some in the past few days, need to track them down again...
 - [US COVID-19 Trends](https://www.uscovidtrends.com/)
 - [Coronavirus Global Cases leaflet map](http://mesquitadata.com/corona.html)
 - How Iceland is predicting COVID-19 cases: [Hierarchical Logistic Growth Curves](https://rpubs.com/bgautijonsson/HierarchicalLogisticGrowthCurves)
+- [Mapping COVID-19 in Missouri](https://slu-opengis.github.io/covid_daily_viz/) [[Repo]](https://github.com/slu-openGIS/covid_daily_viz)
+- [Florida COVID19 Data parsed from Florida DOH Dashboard and PDF reports](https://github.com/gadenbuie/covid19-florida)
 
 ## Analysing COVID data responsibly
 
