@@ -156,6 +156,7 @@ These are not necessarily R specific resources, but they're mostly what the anal
 - [Coronavirus Global Cases leaflet map](http://mesquitadata.com/corona.html)
 - How Iceland is predicting COVID-19 cases: [Hierarchical Logistic Growth Curves](https://rpubs.com/bgautijonsson/HierarchicalLogisticGrowthCurves)
 - [Mapping COVID-19 in Missouri](https://slu-opengis.github.io/covid_daily_viz/) [[Repo]](https://github.com/slu-openGIS/covid_daily_viz)
+- [Florida COVID19 Data parsed from Florida DOH Dashboard and PDF reports](https://github.com/gadenbuie/covid19-florida)
 
 ## Analysing COVID data responsibly
 
