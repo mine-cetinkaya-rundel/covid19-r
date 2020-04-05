@@ -45,6 +45,13 @@ If you have examples to add, please open an issue or make a pull request.
 - [Top 25 R resources on Novel COVID-19 Coronavirus](https://www.statsandr.com/blog/top-r-resources-on-covid-19-coronavirus)
 - [How to create a simple Coronavirus dashboard specific to your country in R](https://www.statsandr.com/blog/how-to-create-a-simple-coronavirus-dashboard-specific-to-your-country-in-r/)
 - [COVID-19 in Belgium](https://www.statsandr.com/blog/covid-19-in-belgium/) [[Code]](https://github.com/AntoineSoetewey/coronavirus_dashboard)
+- [Why log ratios are useful for tracking COVID-19](https://robjhyndman.com/hyndsight/logratios-covid19/)
+- [Another "flatten the COVID-19 curve" simulation... in R](https://allthiswasfield.blogspot.com/2020/04/another-flatten-covid-19-curve.html)
+- [The COVID-19 Initial Unemployment Claims Spike in Context](http://svmiller.com/blog/2020/03/the-covid19-initial-claims-spike-in-context-r/)
+- [Facts About Coronavirus Disease 2019 (COVID-19) in 5 Charts created with R and ggplot2](https://novyden.blogspot.com/2020/03/facts-about-coronavirus-disease-2019.html)
+- [Making Of: A Free API For COVID-19 Data](https://www.statworx.com/de/blog/making-of-a-free-api-for-covid-19-data/)
+- [COVID-19 decease animation map](http://r.iresmi.net/2020/04/01/covid-19-decease-animation-map/)
+- [Merge Covid-19 Data with Governmental Interventions Data](https://joachim-gassen.github.io/2020/03/merge-covid-19-data-with-governmental-interventions-data/)
 
 ## Shiny apps / dashboards
 
@@ -100,6 +107,18 @@ If you have examples to add, please open an issue or make a pull request.
 - [Monitoring COVID-19 evolution in Italy](http://achab94.shinyapps.io/covid-19/)
 - [COVID-19 Global Meter](https://shivam-panchal.shinyapps.io/coronavirus/)
 - [CoVid-19 in Italia](https://www.pangeadds.eu/demos/CoVid19/)
+- [Number of confirmed Covid-19 cases](https://abbaskesh.shinyapps.io/covidgithub/)
+- [Modeling COVID-19 Spread vs Healthcare Capacity](https://shinyapps-recent.appspot.com/detail.html?id=220830001)
+- [Canadian COVID Dashboard](https://art-bd.shinyapps.io/covid19canada/)
+- [COVID-19 Outbreak](https://thibautfabacher.shinyapps.io/covid-19/)
+- [Coronavirus 10-day forecast](http://covid19.science.unimelb.edu.au/)
+- [Reporting, epidemic growth, and reproduction numbers for the 2019-nCoV epidemic: understanding control](https://art-bd.shinyapps.io/nCov_control/)
+- [Painel Covid-19](https://community.rstudio.com/t/painel-covid-19-2020-shiny-contest-submission/59803)
+- [COVID-19 in LAC](https://robertmitchellv.com/projects-covid-19-lac.html)
+- [Material Design Corona/COVID-19 Dashboard](https://sebastianwolf.shinyapps.io/Corona-Shiny/)
+- [Covid-19 Dashboard by HBAP Team Shiny](https://community.rstudio.com/t/covid-19-dashboard-by-hbap-team-shiny-2020-shiny-contest-submission/59768)
+- [Covid-O-Meter](https://community.rstudio.com/t/covid-o-meter-2020-shiny-contest-submission/59612)
+
 
 ## Videos
 
@@ -139,6 +158,7 @@ These are not necessarily R specific resources, but they're mostly what the anal
   - https://github.com/lperez31/coronavirus-france-dataset
 - Italy data: https://github.com/pcm-dpc/COVID-19
 - US data from NYTimes: https://github.com/nytimes/covid-19-data
+- Infotorch COVID-19 Australia Data API: https://github.com/infotorch/covid19-australia-api
 - TO DO: SFBart said they'll be posting ridership numbers each day (https://twitter.com/SFBART/status/1239904439542005760?s=20), need to track down how to compile. Also see [here](https://www.bart.gov/news/articles/2020/news20200225).
   
 ## Journal articles
@@ -162,6 +182,10 @@ These are not necessarily R specific resources, but they're mostly what the anal
 - How Iceland is predicting COVID-19 cases: [Hierarchical Logistic Growth Curves](https://rpubs.com/bgautijonsson/HierarchicalLogisticGrowthCurves)
 - [Mapping COVID-19 in Missouri](https://slu-opengis.github.io/covid_daily_viz/) [[Repo]](https://github.com/slu-openGIS/covid_daily_viz)
 - [Florida COVID19 Data parsed from Florida DOH Dashboard and PDF reports](https://github.com/gadenbuie/covid19-florida)
+- [Seattle Children's Hospital - Novel Coronavirus COVID-19 Daily Update of Confirmed Cases and Deaths](http://www.schdatascience.org/) (I believe the plots are made with R and plotly)
+- [PHE's COVID-19 case data by IMD](https://github.com/VictimOfMaths/Experiments/blob/master/COVID19IMD.R)
+- [Positive COVID-19 cases in NYC by zip code](https://github.com/natalieoshea/covid-nyc)
+- [Exploring the Temporal Evolution of COVID-19 Cases in the Ohio Counties](https://rpubs.com/rdwinkelman/covid19_ohio_gifs)
 
 ## Analysing COVID data responsibly
 
