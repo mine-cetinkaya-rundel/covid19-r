@@ -118,7 +118,7 @@ If you have examples to add, please open an issue or make a pull request.
 - [Material Design Corona/COVID-19 Dashboard](https://sebastianwolf.shinyapps.io/Corona-Shiny/)
 - [Covid-19 Dashboard by HBAP Team Shiny](https://community.rstudio.com/t/covid-19-dashboard-by-hbap-team-shiny-2020-shiny-contest-submission/59768)
 - [Covid-O-Meter](https://community.rstudio.com/t/covid-o-meter-2020-shiny-contest-submission/59612)
-- [Coronavirus in Belgium](https://www.antoinesoetewey.com/files/coronavirus-dashboard.html) [[Code]]((https://github.com/AntoineSoetewey/coronavirus_dashboard))
+- [Coronavirus in Belgium](https://www.antoinesoetewey.com/files/coronavirus-dashboard.html) [[Code]](https://github.com/AntoineSoetewey/coronavirus_dashboard)
 
 
 ## Videos
