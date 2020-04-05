@@ -43,8 +43,8 @@ If you have examples to add, please open an issue or make a pull request.
 - [Covid deaths graphs -- lockdown (part 3)](https://calumdavey.github.io/Covid-Deaths-lockdown/)
 - [Coverage of COVID research by the A&I databases](https://rpubs.com/alexeilutay/covid_coverage)
 - [Top 25 R resources on Novel COVID-19 Coronavirus](https://www.statsandr.com/blog/top-r-resources-on-covid-19-coronavirus)
-- [How to create a simple Coronavirus dashboard specific to your country in R](https://www.statsandr.com/blog/how-to-create-a-simple-coronavirus-dashboard-specific-to-your-country-in-r/) [[Code]]
-- [COVID-19 in Belgium](https://www.statsandr.com/blog/covid-19-in-belgium/ (https://github.com/AntoineSoetewey/coronavirus_dashboard)
+- [How to create a simple Coronavirus dashboard specific to your country in R](https://www.statsandr.com/blog/how-to-create-a-simple-coronavirus-dashboard-specific-to-your-country-in-r/)
+- [COVID-19 in Belgium](https://www.statsandr.com/blog/covid-19-in-belgium/)
 - [Why log ratios are useful for tracking COVID-19](https://robjhyndman.com/hyndsight/logratios-covid19/)
 - [Another "flatten the COVID-19 curve" simulation... in R](https://allthiswasfield.blogspot.com/2020/04/another-flatten-covid-19-curve.html)
 - [The COVID-19 Initial Unemployment Claims Spike in Context](http://svmiller.com/blog/2020/03/the-covid19-initial-claims-spike-in-context-r/)
@@ -118,6 +118,7 @@ If you have examples to add, please open an issue or make a pull request.
 - [Material Design Corona/COVID-19 Dashboard](https://sebastianwolf.shinyapps.io/Corona-Shiny/)
 - [Covid-19 Dashboard by HBAP Team Shiny](https://community.rstudio.com/t/covid-19-dashboard-by-hbap-team-shiny-2020-shiny-contest-submission/59768)
 - [Covid-O-Meter](https://community.rstudio.com/t/covid-o-meter-2020-shiny-contest-submission/59612)
+- [Coronavirus in Belgium](https://www.antoinesoetewey.com/files/coronavirus-dashboard.html) [[Code]]((https://github.com/AntoineSoetewey/coronavirus_dashboard))
 
 
 ## Videos
