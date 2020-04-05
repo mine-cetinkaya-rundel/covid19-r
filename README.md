@@ -56,13 +56,8 @@ If you have examples to add, please open an issue or make a pull request.
 ## Shiny apps / dashboards
 
 - [COVID-19 tracker](https://vac-lshtm.shinyapps.io/ncov_tracker/) [[Code]](https://github.com/eparker12/nCoV_tracker)
-- [Visualization of Covid-19 Cases](https://community.rstudio.com/t/visualization-of-covid-19-cases-2020-shiny-contest-submission/57211) [[Code]](https://github.com/nicoFhahn/covid_shiny)
-- [COVID-19 Live Report](https://community.rstudio.com/t/covid-19-live-report-2020-shiny-contest-submission/57061) [[Code]](https://rstudio.cloud/project/1029711)
-- [COVID-19 Data Visualization Platform](https://community.rstudio.com/t/covid-19-data-visualization-platform-2020-shiny-contest-submission/56992) 
-- [COVID-19 Application](https://behroozh.shinyapps.io/COVID19/)
 - [Coronavirus (COVID-19) Across The World](https://dash.datascienceplus.com/covid19/)
 - [Coronavirus COVID-19 Global Cases](http://www.paulamoraga.com/coronavirus/)
-- [COVID-19 in derivatives](https://community.rstudio.com/t/covid-19-in-derivatives-2020-shiny-contest-submission/56796) [[Code]](https://github.com/pernaletec/covid19_derivatives)
 - [Utah.gov Coronavirus Dashboard](https://coronavirus.utah.gov/latest/) (Access seems restricted outside of the US)
 - [Visualisation of Covid-19 case data for the Island of Ireland
 ](https://github.com/mathsnuig/coronaviz) [[Code]](https://github.com/mathsnuig/coronaviz)
@@ -92,11 +87,8 @@ If you have examples to add, please open an issue or make a pull request.
 - [COVID-19 State Tracker Dashboard](https://ausmeyer.shinyapps.io/covid_states/)
 - [COVID-19 Explorer](https://ethan-tenison.shinyapps.io/covid-19/)
 - [Analisis descriptivo de contagio por Coronavirus](https://analyticsrlun.shinyapps.io/Shiny-AnalyticsRLUN/)
-- [COVID-19 Acute and Intensive Care Resource Tool](https://community.rstudio.com/t/covid-19-acute-and-intensive-care-resource-tool-2020-shiny-contest-submission/58448)
 - [Datos COVID-19 (SARS-CoV-2)](https://baguadoramirez.shinyapps.io/covid/)
-- [COVID-19 Global Meter](https://community.rstudio.com/t/covid-19-global-meter-2020-shiny-contest-submission/58312)
 - [Covid19-Cases](https://monty.shinyapps.io/rcoronavirus/)
-- [covid-19 monitor](https://community.rstudio.com/t/covid-19-monitor-2020-shiny-contest-submission/58047)
 - [US Coronavirus Tracker](https://rdwinkelman.shinyapps.io/US_COVID_Explorer/)
 - [Covid-19 cases](https://mpalanco.shinyapps.io/coronavirus_shiny/)
 - [COVID-19 Schweiz - Open Source Version](https://chschoenenberger.shinyapps.io/covid19_dashboard_ch/) [[Code]](https://github.com/chschoenenberger/covid19_dashboard_ch)
@@ -113,13 +105,19 @@ If you have examples to add, please open an issue or make a pull request.
 - [COVID-19 Outbreak](https://thibautfabacher.shinyapps.io/covid-19/)
 - [Coronavirus 10-day forecast](http://covid19.science.unimelb.edu.au/)
 - [Reporting, epidemic growth, and reproduction numbers for the 2019-nCoV epidemic: understanding control](https://art-bd.shinyapps.io/nCov_control/)
-- [Painel Covid-19](https://community.rstudio.com/t/painel-covid-19-2020-shiny-contest-submission/59803)
 - [COVID-19 in LAC](https://robertmitchellv.com/projects-covid-19-lac.html)
 - [Material Design Corona/COVID-19 Dashboard](https://sebastianwolf.shinyapps.io/Corona-Shiny/)
-- [Covid-19 Dashboard by HBAP Team Shiny](https://community.rstudio.com/t/covid-19-dashboard-by-hbap-team-shiny-2020-shiny-contest-submission/59768)
-- [Covid-O-Meter](https://community.rstudio.com/t/covid-o-meter-2020-shiny-contest-submission/59612)
 - [Coronavirus in Belgium](https://www.antoinesoetewey.com/files/coronavirus-dashboard.html) [[Code]](https://github.com/AntoineSoetewey/coronavirus_dashboard)
-
+- [Visualization of Covid-19 Cases](https://nicohahn.shinyapps.io/covid19/) [[Code]](https://github.com/nicoFhahn/covid_shiny) [[Narrative]](https://community.rstudio.com/t/visualization-of-covid-19-cases-2020-shiny-contest-submission/57211)
+- [COVID-19 Live Report](https://behroozh.shinyapps.io/COVID19/) [[Code]](https://rstudio.cloud/project/1029711) [[Narrative]](https://community.rstudio.com/t/covid-19-live-report-2020-shiny-contest-submission/57061)
+- [COVID-19 in derivatives](https://pernaletec.shinyapps.io/covid_derivative_db/) [[Code]](https://github.com/pernaletec/covid19_derivatives) [[Narrative]](https://community.rstudio.com/t/covid-19-in-derivatives-2020-shiny-contest-submission/56796)
+- [COVID-19 Data Visualization Platform](https://shubhrampandey.shinyapps.io/coronaVirusViz/) [[Code]](https://github.com/shubhrampandey/coronaVirus-dataViz) [[Narrative]](https://community.rstudio.com/t/covid-19-data-visualization-platform-2020-shiny-contest-submission/56992)
+- [COVID-19 Acute and Intensive Care Resource Tool](https://caic-rt.shinyapps.io/CAIC-RT/) [[Code]](https://github.com/mattwarkentin/CAIC-RT) [[Narrative]](https://community.rstudio.com/t/covid-19-acute-and-intensive-care-resource-tool-2020-shiny-contest-submission/58448)
+- [COVID-19 Global Meter](https://shivam-panchal.shinyapps.io/coronavirus/) [[Narrative]](https://community.rstudio.com/t/covid-19-global-meter-2020-shiny-contest-submission/58312)
+- [covid-19 monitor](https://trafforddatalab.shinyapps.io/covid-19/) [[Code]](https://github.com/traffordDataLab/covid-19) [[Narrative]](https://community.rstudio.com/t/covid-19-monitor-2020-shiny-contest-submission/58047)
+- [Painel Covid-19](https://caique.shinyapps.io/COVID-Panel/) [[Code]](https://github.com/caiqueth/Covid19-Panel) [[Narrative]](https://community.rstudio.com/t/painel-covid-19-2020-shiny-contest-submission/59803)
+- [Covid-19 Dashboard by HBAP Team Shiny](https://jeff-renz.shinyapps.io/HBAPShiny2020/) [[Narrative]](https://community.rstudio.com/t/covid-19-dashboard-by-hbap-team-shiny-2020-shiny-contest-submission/59768)
+- [Covid-O-Meter](https://alhenry.shinyapps.io/covid-o-meter/) [[Code]](https://github.com/alhenry/covid-o-meter) [[Narrative]](https://community.rstudio.com/t/covid-o-meter-2020-shiny-contest-submission/59612)
 
 ## Videos
 
