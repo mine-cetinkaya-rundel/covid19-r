@@ -186,6 +186,12 @@ These are not necessarily R specific resources, but they're mostly what the anal
 - [Positive COVID-19 cases in NYC by zip code](https://github.com/natalieoshea/covid-nyc)
 - [Exploring the Temporal Evolution of COVID-19 Cases in the Ohio Counties](https://rpubs.com/rdwinkelman/covid19_ohio_gifs)
 
+## Non-R resources
+
+During collecting these I've come across (or others have submitted) some fantastic resources not developed in R, I'm collecting those here.
+
+- [NZ COVID-19 Dashboard](https://nzcoviddashboard.esr.cri.nz/)
+
 ## Analysing COVID data responsibly
 
 These are not #rstats specific, but important to digest before diving into the data.
