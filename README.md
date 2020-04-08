@@ -118,6 +118,7 @@ If you have examples to add, please open an issue or make a pull request.
 - [Painel Covid-19](https://caique.shinyapps.io/COVID-Panel/) [[Code]](https://github.com/caiqueth/Covid19-Panel) [[Narrative]](https://community.rstudio.com/t/painel-covid-19-2020-shiny-contest-submission/59803)
 - [Covid-19 Dashboard by HBAP Team Shiny](https://jeff-renz.shinyapps.io/HBAPShiny2020/) [[Narrative]](https://community.rstudio.com/t/covid-19-dashboard-by-hbap-team-shiny-2020-shiny-contest-submission/59768)
 - [Covid-O-Meter](https://alhenry.shinyapps.io/covid-o-meter/) [[Code]](https://github.com/alhenry/covid-o-meter) [[Narrative]](https://community.rstudio.com/t/covid-o-meter-2020-shiny-contest-submission/59612)
+- [NZ COVID-19 Dashboard](https://nzcoviddashboard.esr.cri.nz/)
 
 ## Videos
 
@@ -185,12 +186,6 @@ These are not necessarily R specific resources, but they're mostly what the anal
 - [PHE's COVID-19 case data by IMD](https://github.com/VictimOfMaths/Experiments/blob/master/COVID19IMD.R)
 - [Positive COVID-19 cases in NYC by zip code](https://github.com/natalieoshea/covid-nyc)
 - [Exploring the Temporal Evolution of COVID-19 Cases in the Ohio Counties](https://rpubs.com/rdwinkelman/covid19_ohio_gifs)
-
-## Non-R resources
-
-During collecting these I've come across (or others have submitted) some fantastic resources not developed in R, I'm collecting those here.
-
-- [NZ COVID-19 Dashboard](https://nzcoviddashboard.esr.cri.nz/)
 
 ## Analysing COVID data responsibly
 
