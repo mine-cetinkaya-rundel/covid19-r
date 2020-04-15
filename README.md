@@ -136,6 +136,7 @@ Most of these are data only packages, but sone omly feature functions for creati
 - 📦 [covid19br](https://paternogbc.github.io/covid19br/index.html)
 - 📦 [coronabr](https://liibre.github.io/coronabr/index.html)
 - 📦 [covid19italy](https://github.com/RamiKrispin/covid19Italy)
+- 📦 [covid19nytimes](https://github.com/Covid19R/covid19nytimes)
 - 📦 [covid19at](https://github.com/joph/Covid19-Austria)
 - 📦 [ncovmap](https://github.com/yiluheihei/ncovmap) - data of China and global world, China map, Province map of china
 World map, maps of Italy, Japan, Korea and Iran
