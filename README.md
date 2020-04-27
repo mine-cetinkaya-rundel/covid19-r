@@ -188,6 +188,7 @@ These are not necessarily R specific resources, but they're mostly what the anal
 - [PHE's COVID-19 case data by IMD](https://github.com/VictimOfMaths/Experiments/blob/master/COVID19IMD.R)
 - [Positive COVID-19 cases in NYC by zip code](https://github.com/natalieoshea/covid-nyc)
 - [Exploring the Temporal Evolution of COVID-19 Cases in the Ohio Counties](https://rpubs.com/rdwinkelman/covid19_ohio_gifs)
+- [Pandemia COVID-19](https://jaferezrubio.netlify.app/pandemic_covid_spain.html)
 
 ## Analysing COVID data responsibly
 
