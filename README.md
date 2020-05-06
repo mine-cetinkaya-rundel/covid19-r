@@ -163,6 +163,7 @@ These are not necessarily R specific resources, but they're mostly what the anal
 - US data from NYTimes: https://github.com/nytimes/covid-19-data
 - Infotorch COVID-19 Australia Data API: https://github.com/infotorch/covid19-australia-api
 - TO DO: SFBart said they'll be posting ridership numbers each day (https://twitter.com/SFBART/status/1239904439542005760?s=20), need to track down how to compile. Also see [here](https://www.bart.gov/news/articles/2020/news20200225).
+- [European Centre for Disease Prevention and Control](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide)
   
 ## Journal articles
 
