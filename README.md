@@ -170,6 +170,10 @@ These are not necessarily R specific resources, but they're mostly what the anal
 - [Adjusted age-specific case fatality ratio during the COVID-19 epidemic in Hubei, China, January and February 2020](https://www.medrxiv.org/content/10.1101/2020.03.04.20031104v2) [[Data & Code]](https://github.com/jriou/covid_adjusted_cfr) [[Tweet]](https://twitter.com/konstantinoudis/status/1244888431232253952?s=20)
 - [Overview from MIDAS network](https://github.com/midas-network/COVID-19/wiki/Documents)
 
+## Reports
+
+- [Reports by the Imperial College COVID-19 Response Team](https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/covid-19-reports/) - Some of the analysis and the visualisations appear to be done in R
+
 ## Educational activities
 
 - [Visualizing COVID-19](https://rpruim.github.io/ds303/S20/hw/covid-19/covid-19.html) by Randy Prium
