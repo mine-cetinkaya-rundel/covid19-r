@@ -120,6 +120,7 @@ If you have examples to add, please open an issue or make a pull request.
 - [Covid-O-Meter](https://alhenry.shinyapps.io/covid-o-meter/) [[Code]](https://github.com/alhenry/covid-o-meter) [[Narrative]](https://community.rstudio.com/t/covid-o-meter-2020-shiny-contest-submission/59612)
 - [NZ COVID-19 Dashboard](https://nzcoviddashboard.esr.cri.nz/)
 - [COVID Trials](https://covid-trials.com/)
+- [CovidMetrika Brasil](https://mhbarbian.shinyapps.io/CovidMetrika/)
 
 ## Videos
 
