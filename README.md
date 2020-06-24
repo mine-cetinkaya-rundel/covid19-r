@@ -121,6 +121,7 @@ If you have examples to add, please open an issue or make a pull request.
 - [NZ COVID-19 Dashboard](https://nzcoviddashboard.esr.cri.nz/)
 - [COVID Trials](https://covid-trials.com/)
 - [CovidMetrika Brasil](https://mhbarbian.shinyapps.io/CovidMetrika/)
+- [COVID-19 India Analysis](https://srinathkr.shinyapps.io/COVID19-India/)
 
 ## Videos
 
