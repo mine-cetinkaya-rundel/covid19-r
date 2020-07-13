@@ -122,6 +122,7 @@ If you have examples to add, please open an issue or make a pull request.
 - [COVID Trials](https://covid-trials.com/)
 - [CovidMetrika Brasil](https://mhbarbian.shinyapps.io/CovidMetrika/)
 - [COVID-19 India Analysis](https://srinathkr.shinyapps.io/COVID19-India/)
+- [COVID-19 Event Risk Assessment Planning Tool](https://covid19risk.biosci.gatech.edu/)
 
 ## Videos
 
