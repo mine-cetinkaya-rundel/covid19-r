@@ -150,6 +150,7 @@ World map, maps of Italy, Japan, Korea and Iran
 - 📦 [covid19germany](https://github.com/nevrome/covid19germany)
 - 📦 [tidycovid19](https://github.com/joachim-gassen/tidycovid19)
 - 📦 [COVID19analytics](https://github.com/rOpenStats/COVID19analytics)
+- 📦 [COVID19](https://covid19datahub.io/articles/r.html)
 
 ## Data
 
