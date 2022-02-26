@@ -124,6 +124,7 @@ If you have examples to add, please open an issue or make a pull request.
 - [COVID-19 India Analysis](https://srinathkr.shinyapps.io/COVID19-India/)
 - [COVID-19 Event Risk Assessment Planning Tool](https://covid19risk.biosci.gatech.edu/)
 - [Predict Pandemic](https://predictpandemic.org/)
+- [Covid 19 Situation in Balkan Countries](https://endriraco.shinyapps.io/BalkanCovidSituation/)
 
 ## Videos
 
