@@ -4,7 +4,7 @@
 
 This repo links to a collection of analyses on and representations of COVID19 data in R. Inclusion on the list does not mean the analysis was verified by me or that I endorse the findings. It should also be noted that some of the analysis / data might be out of date, so these should not be viewed, by default, as current findings.
 
-I'm collecting them as they get posted online so that I can come back to them later to develop educational examples based on theses data. I should also note that one should think about using these as class examples thoroughly -- the situation is affecting all of us (and our students) greatly and it's possible some students are personally affected by the pandemic.
+I'm collecting them as they get posted online so that I can come back to them later to develop educational examples based on these data. I should also note that one should think about using these as class examples thoroughly -- the situation is affecting all of us (and our students) greatly and it's possible some students are personally affected by the pandemic.
 
 Subheadings are in flux as of now, as more analyses get added I might recategorize them. 
 
@@ -125,6 +125,7 @@ If you have examples to add, please open an issue or make a pull request.
 - [COVID-19 Event Risk Assessment Planning Tool](https://covid19risk.biosci.gatech.edu/)
 - [Predict Pandemic](https://predictpandemic.org/)
 - [Covid 19 Situation in Balkan Countries](https://endriraco.shinyapps.io/BalkanCovidSituation/)
+- [An Interactive Shiny App of Google's COVID-19 Data](https://tilburgsciencehub.com/examples/google-covid-shiny-app/)
 
 ## Videos
 
@@ -133,7 +134,7 @@ If you have examples to add, please open an issue or make a pull request.
 
 ## Packages
 
-Most of these are data only packages, but sone omly feature functions for creating visualisations and dashboard from the data in the package.
+Most of these are data only packages, but some also contain feature functions for creating visualisations and dashboard from the data in the package.
 
 - 📦 [coronavirus](https://github.com/RamiKrispin/coronavirus)
 - 📦 [nCoV2019.data](https://github.com/qingyuanzhao/2019-nCov-Data)
@@ -170,6 +171,7 @@ These are not necessarily R specific resources, but they're mostly what the anal
 - Infotorch COVID-19 Australia Data API: https://github.com/infotorch/covid19-australia-api
 - TO DO: SFBart said they'll be posting ridership numbers each day (https://twitter.com/SFBART/status/1239904439542005760?s=20), need to track down how to compile. Also see [here](https://www.bart.gov/news/articles/2020/news20200225).
 - [European Centre for Disease Prevention and Control](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide)
+- [Novel Corona Virus 2019 Dataset on Kaggle](https://www.kaggle.com/datasets/sudalairajkumar/novel-corona-virus-2019-dataset)
   
 ## Journal articles
 
@@ -180,6 +182,7 @@ These are not necessarily R specific resources, but they're mostly what the anal
 - [Data mining and analysis of scientific research data records on Covid-19 mortality, immunity, and vaccine development - In the first wave of the Covid-19 pandemic](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7335244/)
 - [COVID-19: Forecasting short term hospital needs in France](https://www.medrxiv.org/content/10.1101/2020.03.16.20036939v1.full.pdf)
 - [Understanding the Public Discussion About the Centers for Disease Control and Prevention During the COVID-19 Pandemic Using Twitter Data: Text Mining Analysis Study](https://www.jmir.org/2021/2/e25108)
+- [Some teaching resources using R with illustrative examples exploring COVID-19 data](https://onlinelibrary.wiley.com/doi/10.1111/test.12258)
 
 ## Reports
 
@@ -207,13 +210,14 @@ These are not necessarily R specific resources, but they're mostly what the anal
 - [Positive COVID-19 cases in NYC by zip code](https://github.com/natalieoshea/covid-nyc)
 - [Exploring the Temporal Evolution of COVID-19 Cases in the Ohio Counties](https://rpubs.com/rdwinkelman/covid19_ohio_gifs)
 - [Pandemia COVID-19](https://jaferezrubio.netlify.app/pandemic_covid_spain.html)
-- [data Science Project Guide](https://lukas-jue.github.io/data-science-covid-guide/)
+- [Data Science Project Guide](https://lukas-jue.github.io/data-science-covid-guide/)
 
 ## Analysing COVID data responsibly
 
 These are not #rstats specific, but important to digest before diving into the data.
 
 - [Ten Considerations Before You Create Another Chart About COVID-19](https://medium.com/nightingale/ten-considerations-before-you-create-another-chart-about-covid-19-27d3bd691be8)
+- [Which Covid-19 Data Can You Trust?](https://hbr.org/2020/05/which-covid-19-data-can-you-trust)
 
 -----
 
