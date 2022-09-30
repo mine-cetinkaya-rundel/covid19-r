@@ -177,6 +177,9 @@ These are not necessarily R specific resources, but they're mostly what the anal
 - [Overview from MIDAS network](https://github.com/midas-network/COVID-19/wiki/Documents)
 - [Initial evidence on COVID-19 and crime in the United States](https://github.com/mpjashby/covid19-crime)
 - [Police calls for service during the coronavirus pandemic](https://github.com/mpjashby/covid19-calls)
+- [Data mining and analysis of scientific research data records on Covid-19 mortality, immunity, and vaccine development - In the first wave of the Covid-19 pandemic](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7335244/)
+- [COVID-19: Forecasting short term hospital needs in France](https://www.medrxiv.org/content/10.1101/2020.03.16.20036939v1.full.pdf)
+- [Understanding the Public Discussion About the Centers for Disease Control and Prevention During the COVID-19 Pandemic Using Twitter Data: Text Mining Analysis Study](https://www.jmir.org/2021/2/e25108)
 
 ## Reports
 
